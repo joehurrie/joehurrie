@@ -1,11 +1,15 @@
 # Hi, I'm Joharie 👋
 
-**UX Engineer** crafting intuitive, user-centered digital experiences that merge technology and design.
+<p>
+  <img src="assets/images/profile.png" alt="Joharie" width="200" style="border-radius:50%"/>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/yourprofile)
+**UX Engineer** crafting intuitive, user-centered digital experiences...
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=)](https://portfolio-ux-engineer.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joharie-kisiangani-4a00531b5/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/joharie24735889)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 👨‍💻 About Me
 
@@ -59,8 +63,8 @@ Prototyped an AI-powered tool that helps designers generate UI components from n
 
 ## 📫 Get In Touch
 
-- Email: [hello@joharie.com](mailto:hello@joharie.com)
-- Phone: [+254 712 345 678](tel:+254712345678)
+- Email: [kisianganijoharie@gmail.com]()
+- Phone: [+254 758224585](+254 758224585)
 - Location: Nairobi, Kenya
 
 Let's connect and create something amazing together!
